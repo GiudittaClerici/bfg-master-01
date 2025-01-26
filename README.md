@@ -1,2 +1,2 @@
-This is my best ...
-adding another line on monday
+Master in Bioinformatics for Functional genomics. 
+Repository to test git. 
